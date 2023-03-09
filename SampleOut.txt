@@ -1,0 +1,4 @@
+Hey,this is the text file that has to be encoded
+it can also handle a new line character
+and also	tab spaces also symbols(?/..)
+you can see the result by decoding the image that you used to encode the text
