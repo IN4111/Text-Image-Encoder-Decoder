@@ -13,7 +13,6 @@ import Decoder as dc
 Ec=ec.Encode("SampleIn.txt","ImageOut.png",n,(z1,z2,z3),(o1,o2,o3))
 Ec.encode()
 #SampleIn.txt:text to be encoded
-#ImageIn.png:image where encoded values of data allocated in respective pixels
 #ImageOut.png:Destination of the image with encoded values
 #n: bits for a value(example: x=8,represents a word lenght of 8 bits)
 #(z1,z2,z3):color that needs to be represented in the pixel for zeros(note: values is in BGR)
