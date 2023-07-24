@@ -10,7 +10,7 @@ import Decoder as dc
 ```
 # 2)Encode a text File(.txt) to an image(.png/.jpg/....) by the form of:
 ```
-Ec=ec.Encode("SampleIn.txt","ImageIn.png","ImageOut.png",n,(z1,z2,z3),(o1,o2,o3))
+Ec=ec.Encode("SampleIn.txt","ImageOut.png",n,(z1,z2,z3),(o1,o2,o3))
 Ec.encode()
 #SampleIn.txt:text to be encoded
 #ImageIn.png:image where encoded values of data allocated in respective pixels
