@@ -1,6 +1,7 @@
 # Image---Text-Encoder-and-Decoder
 # Demo Image
-![demo](https://github.com/IN4111/Text-Image-Encoder-Decoder/assets/123793292/54a771ea-d89a-4f2c-99c0-6819c187ec5a)
+![Demo](https://github.com/IN4111/Text-Image-Encoder-Decoder/assets/123793292/c07c3323-b0cf-4c9f-bef4-879cfe1b2b0e)
+
 # Install Required Packages:
  Use ```pip install -r requirements.txt``` to install required packages.
 # 1)Importing Modules:
