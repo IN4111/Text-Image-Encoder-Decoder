@@ -1,7 +1,6 @@
 # Image---Text-Encoder-and-Decoder
-You can encode a Text(.txt) File To an Image( .png/ .jpg/....) with the pixel's color code using Encoder Module ,and vise versa using Decoder Module Provided in this Repository.
-![ImageOut](https://user-images.githubusercontent.com/123793292/224125502-c6cb10d7-7a24-42d7-86f6-1f5f27476155.png)
-
+# Demo Image
+![Untitled](https://github.com/IN4111/Text-Image-Encoder-Decoder/assets/123793292/54a771ea-d89a-4f2c-99c0-6819c187ec5a)
 # Install Required Packages:
  Use ```pip install -r requirements.txt``` to install required packages.
 # 1)Importing Modules:
